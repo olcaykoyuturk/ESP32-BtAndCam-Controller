@@ -1,31 +1,31 @@
-<h1>ESP32 CAM CONTROLLER</h1>
-<p>My app works by sending char over Bluetooth. It is also connected to esp32cam via ip.</p>
-<br>
-<h2>Commands</h2>
-<li>Forward: 'F'</li>
-<li>Left: 'L'</li>
-<li>Backward: 'B'</li>
-<li>Right: 'R'</li>
-<li>Speed 1: 'A'</li>
-<li>Speed 2: 'B'</li>
-<li>Speed 3: 'C'</li>
-<li>Slider: '0','1','2','3','4'</li>
-<br>
-<h2>Photo</h2>
-<img src="https://github.com/olcaykoyuturk/ESP32-BtAndCam-Controller/blob/main/image/info2.jpg?raw=true" width = "250">
+# ESP32 CAM CONTROLLER
 
-<h1>ESP32 BLUETOOTH CONTROLLER</h1>
-<p>My app works by sending char over Bluetooth.</p>
-<br>
-<h2>Commands</h2>
-<li>Forward: 'F'</li>
-<li>Left: 'L'</li>
-<li>Backward: 'B'</li>
-<li>Right: 'R'</li>
-<li>Speed 1: 'A'</li>
-<li>Speed 2: 'B'</li>
-<li>Speed 3: 'C'</li>
-<li>STOP: 'S', Sends the letter S when you take your hand off the screen</li>
-<br>
-<h2>Photo</h2>
-<img src="https://github.com/olcaykoyuturk/ESP32-BtAndCam-Controller/blob/main/image/info.jpg?raw=true" width = "250">
+My mobile application works by sending characters over Bluetooth and is also connected to ESP32-CAM via IP.
+
+## Commands
+- Forward: 'F'
+- Left: 'L'
+- Backward: 'B'
+- Right: 'R'
+- Speed 1: 'A'
+- Speed 2: 'B'
+- Speed 3: 'C'
+- Slider: '0', '1', '2', '3', '4'
+
+<img src="https://github.com/olcaykoyuturk/ESP32-BtAndCam-Controller/blob/main/image/info2.jpg?raw=true" width="200">
+
+# ESP32 BLUETOOTH CONTROLLER
+
+My mobile application works by sending characters over Bluetooth.
+
+## Commands
+- Forward: 'F'
+- Left: 'L'
+- Backward: 'B'
+- Right: 'R'
+- Speed 1: 'A'
+- Speed 2: 'B'
+- Speed 3: 'C'
+- STOP: 'S', sends the letter S when you take your hand off the screen
+
+<img src="https://github.com/olcaykoyuturk/ESP32-BtAndCam-Controller/blob/main/image/info.jpg?raw=true" width="200">
