@@ -12,7 +12,7 @@
 <li>Slider: '0','1','2','3','4'</li>
 <br>
 <h2>Photo</h2>
-<img src="https://github.com/olcaykoyuturk/esp32cam-controller-apk/blob/main/info.jpg" width = "250">
+<img src="https://github.com/olcaykoyuturk/ESP32-BtAndCam-Controller/blob/main/image/info2.jpg?raw=true" width = "250">
 
 <h1>ESP32 BLUETOOTH CONTROLLER</h1>
 <p>My app works by sending char over Bluetooth.</p>
@@ -28,4 +28,4 @@
 <li>STOP: 'S', Sends the letter S when you take your hand off the screen</li>
 <br>
 <h2>Photo</h2>
-<img src="https://github.com/olcaykoyuturk/esp32-bt-controller-apk/blob/main/info.jpg" width = "250">
+<img src="https://github.com/olcaykoyuturk/ESP32-BtAndCam-Controller/blob/main/image/info.jpg?raw=true" width = "250">
